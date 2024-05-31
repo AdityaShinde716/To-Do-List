@@ -1,0 +1,26 @@
+.app-container {
+  text-align: center;
+  margin: 20px;
+  font-family: Arial, sans-serif;
+  color: black;
+}
+
+h1 {
+  color:orangered;
+}
+
+.sort-options {
+  margin-bottom: 20px;
+  color: yellow;
+}
+
+.sort-options label {
+  margin-right: 10px;
+  color: yellow;
+}
+
+body{
+  background-color: rgb(70, 2, 70);
+}
+
+
